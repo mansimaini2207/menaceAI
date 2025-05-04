@@ -1,0 +1,3 @@
+- Implement a research paper
+- Make a wrapper AI product
+- Solve a problem you face daily using prompt engineering in that wrapper product
